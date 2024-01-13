@@ -6,7 +6,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body>
-        <div class='bg-blue-500 p-3 flex flex-row items-center gap-5'>
+        <div className='bg-blue-500 p-3 flex flex-row items-center gap-5'>
           <Image
             src="/images/logo.png"
             width={50}
